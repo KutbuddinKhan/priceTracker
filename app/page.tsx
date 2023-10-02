@@ -32,7 +32,7 @@ const Home = async () => {
             </p>
 
             <Searchbar />
-          </div>
+          </div>  
 
           <HeroCarousel />
         </div>
